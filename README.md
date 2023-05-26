@@ -1,4 +1,4 @@
-# asmasad
+
 ![asmasadp](https://github.com/Sardees1/asmasad/assets/134087762/5ae9b575-74c8-4c9c-b217-2f49767c76dc)
 
 ![bangis](https://github.com/Sardees1/asmasad/assets/134087762/61e42eb5-0110-4336-b1a4-c68611ad689f)
