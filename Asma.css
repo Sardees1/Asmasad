@@ -93,3 +93,29 @@ p2 {
 	border:2px solid blue;
 	border-radius:20px;
 }
+
+
+
+
+
+/* STARTING OF VIEW UPDATES*/
+
+.updts a {
+
+	text-decoration:none;
+
+	border-radius:50px;
+
+}
+
+.updts {
+
+	border:2px solid black;
+
+	border-radius:50px;
+
+	width:500px;
+
+}
+
+/*END OF VIEW UPDATES*/
