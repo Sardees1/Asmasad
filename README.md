@@ -9,4 +9,6 @@
 
 ![sadis](https://github.com/Sardees1/asmasad/assets/134087762/ff1a0bca-337c-4b1c-a5e1-64be3208be82)
 
-![Screenshot_20230530-165807](https://github.com/Sardees1/asmasad/assets/134087762/7f5c2052-85d0-43a9-b466-1d9f9dae0d0d)
+
+
+![Screenshot_20230530-165807](https://github.com/Sardees1/asmasad/assets/134087762/2515a481-eaf4-4fd3-ad0b-6175e4d647b0)
